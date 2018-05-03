@@ -1,0 +1,20 @@
+{
+  "admin": {
+    "Usuários": [
+      "admin-criacao-usuario",
+      "admin-delecao-usuario"
+    ]
+  },
+  "util": {
+    "Professores" : [
+      "usuario-criacao-professor",
+      "usuario-delecao-professor"
+    ],
+    "Turma" : [
+      "usuario-alteracao-turma"
+    ],
+    "Aluno" : [
+      "usuario-matricula-aluno"
+    ]
+  }
+}
