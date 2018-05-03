@@ -19,7 +19,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
+  title: 'POC Docusaurus' /* title for your website */,
   tagline: 'A website for testing',
   url: 'https://vinicelms.github.io' /* your website url */,
   baseUrl: '/docs-test/' /* base url for your project */,
