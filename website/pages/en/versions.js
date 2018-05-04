@@ -33,7 +33,7 @@ class Versions extends React.Component {
                 <tr>
                   <th>{latestVersion}</th>
                   <td>
-                    <a href={''}>Documentation</a>
+                    <a href={`${siteConfig.baseUrl}docs/en/admin-criacao-usuario.html`}>Documentation</a>
                   </td>
                   <td>
                     <a href={''}>Release Notes</a>
@@ -51,7 +51,7 @@ class Versions extends React.Component {
                 <tr>
                   <th>master</th>
                   <td>
-                    <a href={''}>Documentation</a>
+                    <a href={`${siteConfig.baseUrl}docs/en/admin-criacao-usuario.html`}>Documentation</a>
                   </td>
                   <td>
                     <a href={''}>Release Notes</a>
@@ -69,7 +69,7 @@ class Versions extends React.Component {
                       <tr>
                         <th>{version}</th>
                         <td>
-                          <a href={''}>Documentation</a>
+                          <a href={`${siteConfig.baseUrl}docs/en/admin-criacao-usuario.html`}>Documentation</a>
                         </td>
                         <td>
                           <a href={''}>Release Notes</a>
@@ -81,7 +81,7 @@ class Versions extends React.Component {
             </table>
             <p>
               You can find past versions of this project{' '}
-              <a href="https://github.com/"> on GitHub </a>.
+              <a href="https://github.com/vinicelms/docs-test"> on GitHub </a>.
             </p>
           </div>
         </Container>
