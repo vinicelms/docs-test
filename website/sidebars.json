@@ -16,7 +16,8 @@
     ],
     "Aluno" : [
       "usuario-matricula-aluno",
-      "usuario-alteracao-matricula"
+      "usuario-alteracao-matricula",
+      "usuario-movimentacao-matricula"
     ]
   }
 }
