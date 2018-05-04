@@ -2,7 +2,8 @@
   "admin": {
     "Usuários": [
       "admin-criacao-usuario",
-      "admin-delecao-usuario"
+      "admin-delecao-usuario",
+      "admin-criacao-turma"
     ]
   },
   "util": {
