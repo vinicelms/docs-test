@@ -1,0 +1,22 @@
+{
+  "version-1.2.0-admin": {
+    "Usuários": [
+      "version-1.2.0-admin-criacao-usuario",
+      "version-1.2.0-admin-delecao-usuario",
+      "version-1.2.0-admin-criacao-turma"
+    ]
+  },
+  "version-1.2.0-util": {
+    "Professores": [
+      "version-1.2.0-usuario-criacao-professor",
+      "version-1.2.0-usuario-delecao-professor"
+    ],
+    "Turma": [
+      "version-1.2.0-usuario-alteracao-turma"
+    ],
+    "Aluno": [
+      "version-1.2.0-usuario-matricula-aluno",
+      "version-1.2.0-usuario-alteracao-matricula"
+    ]
+  }
+}
