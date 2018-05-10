@@ -35,6 +35,7 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
+  editUrl: "https://github.com/vinicelms/docs-test/edit/master/docs/",
   headerLinks: [
     {doc: 'admin-criacao-usuario', label: 'Administração'},
     {doc: 'usuario-criacao-professor', label: 'Operacional'},
